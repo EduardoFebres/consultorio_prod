@@ -39,11 +39,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="5.6375713"
-     inkscape:cy="20.149152"
+     inkscape:zoom="31.678384"
+     inkscape:cx="9.4988023"
+     inkscape:cy="11.528425"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="flowRoot815"
      showgrid="false"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
@@ -59,14 +59,16 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="false">
     <sodipodi:guide
        position="29.243881,3.0616507"
        orientation="1,0"
        id="guide868"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="29.35534,3.0616507"
+       position="-0.50948253,5.4372644"
        orientation="0,1"
        id="guide870"
        inkscape:locked="false" />
@@ -104,9 +106,20 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:48.62000275px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot815">
       <path
-         d="m 235.66602,247.2832 h 25.03906 v 3.32032 h -25.03906 z m 0,-7.28515 h 25.03906 v 3.32031 h -25.03906 z m 0,14.57031 h 25.03906 v 3.32031 h -25.03906 z"
+         d="m 235.66793,248.1367 h 25.03906 v 1.61332 h -25.03906 z"
+         id="path826"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.69705969" />
+      <path
+         d="m 235.66602,239.99805 h 25.03906 v 1.61331 h -25.03906 z"
+         id="path824"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.69705969" />
+      <path
+         d="m 235.66602,256.27536 h 25.03906 v 1.61331 h -25.03906 z"
          id="path823"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.69705969" />
     </g>
     <g
        id="g828"
