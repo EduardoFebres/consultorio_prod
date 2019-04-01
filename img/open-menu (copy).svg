@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="close-menu.svg">
+   sodipodi:docname="open-menu.svg">
   <defs
      id="defs2">
     <filter
@@ -39,16 +39,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="-12.114659"
-     inkscape:cy="19.131082"
+     inkscape:zoom="31.678384"
+     inkscape:cx="9.4988023"
+     inkscape:cy="11.528425"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="flowRoot815"
      showgrid="false"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
-     inkscape:snap-center="false"
-     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
@@ -61,11 +61,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-bbox="true"
-     inkscape:snap-page="true"
-     inkscape:snap-others="true"
-     inkscape:object-nodes="false"
-     inkscape:snap-nodes="true"
-     inkscape:bbox-nodes="true">
+     inkscape:snap-page="false">
     <sodipodi:guide
        position="29.243881,3.0616507"
        orientation="1,0"
@@ -75,11 +71,6 @@
        position="-0.50948253,5.4372644"
        orientation="0,1"
        id="guide870"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="6.620955,4.7357592"
-       orientation="1,0"
-       id="guide848"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -95,40 +86,45 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="square 1"
+     transform="translate(-45.108136,-64.160942)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="square"
+     transform="translate(-45.108136,-64.160942)" />
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-45.108136,-64.160942)"
-     style="display:inline">
+     transform="translate(-45.108136,-64.160942)">
     <g
        aria-label="≡"
        transform="matrix(0.26458333,0,0,0.26458333,-17.245164,0.66145833)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:48.62000275px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot815" />
+       id="flowRoot815">
+      <path
+         d="m 235.66793,248.1367 h 25.03906 v 1.61332 h -25.03906 z"
+         id="path826"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.69705969" />
+      <path
+         d="m 235.66602,239.99805 h 25.03906 v 1.61331 h -25.03906 z"
+         id="path824"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.69705969" />
+      <path
+         d="m 235.66602,256.27536 h 25.03906 v 1.61331 h -25.03906 z"
+         id="path823"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.69705969" />
+    </g>
     <g
        id="g828"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:48.62000275px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter846)"
        transform="matrix(0.26458333,0,0,0.26458333,10.289877,-0.26726953)"
        aria-label="≡" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.42677292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 45.231169,64.334527 6.376953,4.388405"
-       id="path844"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path846"
-       d="m 45.231169,64.334527 6.376953,4.388405"
-       style="fill:none;stroke:#000000;stroke-width:0.42677292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Layer 2">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.42677292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 6.49593,0.16934157 0.12519534,4.5642237"
-       id="path864"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>
