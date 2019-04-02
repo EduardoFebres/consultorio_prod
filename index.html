@@ -9,34 +9,33 @@
 </head>
 
 <body>
-    <header>
-        <nav class="nav">
-            <div class="nav-left"><a class="nav-item">a</a>
-            </div>
-            <label for="menu-toggle" class="nav-toggle"> <i class="fa fa-bars" aria-hidden="true"></i>
+     <nav>
+    <input type="checkbox" id="menu-toggle" class="is-hidden" />
+    <div class="flex-nav" style="">
+        <div><a href="">consulta</a></div>
+        <div><a href="">talleres</a></div>
+        <div><a href="">acerca de mí</a></div>
+        <div><a href="">blog</a></div>
+        <div><a href="">colaboradorxs</a></div>
+        <div class="menu-button" style="position:absolute; right:2rem;top:2rem;">
+            <label for="menu-toggle" class="nav-toggle"> 
+            
             </label>
-            <input type="checkbox" id="menu-toggle" class="is-hidden" />
-            <div class="nav-right nav-menu">
-                <div style="position: absolute; right:10%;margin-top:-4.3rem;">
-                    <label for="menu-toggle" class="nav-toggle">
-                        <i class="fas fa-times"></i>
-                    </label>
-                </div>
-                <a class="nav-item" href="/pages/about.html">consulta</a>
-                <a class="nav-item" href="/archives.html">talleres</a>
-                <a class="nav-item" href="/categories.html">acerca de m&iacute;</a>
-                <a class="nav-item" href="/tags.html">blog</a>
-                <a class="nav-item" href="/authors.html">colaboradorxs</a>
-            </div>
-        </nav>
-        <h1 style="text-align: center;font-weight: 500;padding:0px 8% 1rem;margin:0">El Consultorio Sexymental
+            
+        </div>
+    </div>
+    
+</nav>
+    <header>
+       
+        <h1 style="text-align: center;font-weight: 500;padding:3rem 8%;">El Consultorio Sexymental
         </h1>
-        <div style="padding:2rem 0px 0rem">
-            <img src="img/cintillo-site.png" alt="un rincón para la sexualidad inteligente" style="width:100%;height:50vh;object-fit: none;max-width: 1920px">
+        <div style="">
+            <div class="device" style="max-width: 1720px;margin:auto;"><img src="img/cintillo-site.png" alt="un rincón para la sexualidad inteligente" style="width:100%;height:50vh;object-fit: none;"></div>
         </div>
     </header>
     <!--main container-->
-    <main style="padding:0px 8%;max-width: 1280px; margin:auto">
+    <main style="padding:0px 8%;max-width: 980px; margin:auto">
         <!--call to action 1-->
         <div class="c-t-action" style="">
             <button type="">consulta ahora</button>
@@ -116,10 +115,8 @@
         </main>
         <!--footer-->
         <footer>
-            
-            <img src="img/presentacion-footer.png" style="width: 12rem;height: auto;margin-bottom: 1rem;">
             <h1 style="margin-top: -1rem">consultorio sexymental</h2>
-            <div style="margin-top: 5rem;text-align: center">
+            <div style="margin-top: 2rem;text-align: center">
                 <button class="suscribirse-footer">suscribirse</button>
                 <button class="suscribirse-footer">consultar</button>
 
